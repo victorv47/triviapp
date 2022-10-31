@@ -14,7 +14,7 @@
   <!--  -->
   <BaseTitle>
     <template #logo>
-      <img src="logo.svg" alt="logo" />
+      <img src="/logo.svg" alt="logo" />
     </template>
     Triviapp
   </BaseTitle>
